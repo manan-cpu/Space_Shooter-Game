@@ -17,7 +17,7 @@ Welcome to the **Space Shooter Game**! This is a classic arcade-style shooter wh
 
 Click the button below to start the game directly in your browser:
 
-[![Play Game](https://img.shields.io/badge/Play%20Game-Click%20Here-brightgreen)](https://yourusername.github.io/space-shooter-game/)
+[![Play Game](https://img.shields.io/badge/Play%20Game-Click%20Here-brightgreen)](https://glowing-peony-8af1f5.netlify.app/)
 
 ## Screenshots
 
@@ -32,6 +32,13 @@ Click the button below to start the game directly in your browser:
 ## Credits
 
 - **Game Developer:** Your Name
+- **Game Assets:** Images and sounds sourced from free repositories and custom-created.
+
+## License
+
+This game is open-source. Feel free to fork, modify, and contribute to the project.
+
+
 - **Game Assets:** Images and sounds sourced from free repositories and custom-created.
 
 ## License
