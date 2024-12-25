@@ -21,7 +21,7 @@ Click the button below to start the game directly in your browser:
 
 ## Screenshots
 
-![Gameplay Screenshot](screenshot.png)
+![Gameplay Screenshot](https://cloud-qv8ajsret-hack-club-bot.vercel.app/0image.png)
 
 ## Features
 
